@@ -1,0 +1,50 @@
+{
+"id" : 1, {
+"Task":Сделать домашнюю работу,
+"author":"Арина",
+"adding time":"09:49"
+"adding date":"27:02:2023"
+"deadline":"27.02"
+"priority":"приоритет низкий"
+}
+}
+{
+"id" : 2, {
+"Task":Задача 1,
+"author":"неизвестный",
+"adding time":"09:49"
+"adding date":"27:02:2023"
+"deadline":"бессрочно"
+"priority":"приоритет не установлен"
+}
+}
+{
+"id" : 3, {
+"Task":Приготовить ужин,
+"author":"Арина",
+"adding time":"09:49"
+"adding date":"27:02:2023"
+"deadline":"27.02"
+"priority":"средний приоритет"
+}
+}
+{
+"id" : 4, {
+"Task":Сходить на работу,
+"author":"Кирилл",
+"adding time":"09:49"
+"adding date":"27:02:2023"
+"deadline":"27.02"
+"priority":"приоритет низкий"
+}
+}
+{
+"id" : 5, {
+"Task":Погладить кота,
+"author":"Кирилл",
+"adding time":"09:49"
+"adding date":"27:02:2023"
+"deadline":"27.02"
+"priority":"средний приоритет"
+}
+}
